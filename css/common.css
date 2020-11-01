@@ -74,8 +74,13 @@ footer {
   background-color: #2f303a;
 }
 
+address {
+  font-style: normal;
+}
+
 .address {
   color: white;
+  line-height: 1.71;
 }
 
 .logo-studio {
@@ -85,4 +90,5 @@ footer {
 .footer-e-mail,
 .footer-tel {
   color: rgb(255, 255, 255, 0.6);
+  line-height: 1.71;
 }
